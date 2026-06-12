@@ -1,6 +1,6 @@
 # Libre Pad
 
-A fixed and maintained fork of IIdk's Mod Checker for VRChat.
+A fixed and maintained fork of IIdk's Mod Checker for Gorilla Tag.
 
 ---
 
