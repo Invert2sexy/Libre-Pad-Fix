@@ -1,4 +1,4 @@
-# Libre Pad 📋
+# Libre Pad
 
 A fixed and maintained fork of IIdk's Mod Checker for VRChat.
 
@@ -12,12 +12,12 @@ Libre Pad is a in-game player inspector pad. Grip to open and close it. Point at
 
 ## Features
 
-- 🎵 **Spotify Controls** - Play, pause, and skip tracks without leaving VR
-- ⚠️ **Rule-Breaking Mods** - See which mods a player has installed that violate platform rules
-- ✅ **Non-Rule-Breaking Mods** - See their compliant mods too
-- 📡 **Ping** - View a player's current latency
-- 🗓️ **Account Creation Date** - See what day their account was made
-- 🔁 **Refresh Rate** - See what Hz they're playing on
+- **Spotify Controls** - Play, pause, and skip tracks without leaving VR
+- **Rule-Breaking Mods** - See which mods a player has installed that violate platform rules
+- **Non-Rule-Breaking Mods** - See their compliant mods too
+- **Ping** - View a player's current latency
+- **Account Creation Date** - See what day their account was made
+- **Refresh Rate** - See what Hz they're playing on
 
 ---
 
