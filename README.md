@@ -32,9 +32,9 @@ Libre Pad is a in-game player inspector pad. Grip to open and close it. Point at
 
 ## Installation
 
-1. Make sure you have [MelonLoader](https://melonwiki.xyz/) installed
+1. Make sure you have [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) installed
 2. Download the latest release from the [Releases](../../releases) page
-3. Drop the `.dll` into your `Mods` folder
+3. Drop the `.dll` into your `Plugins` folder
 4. Launch the game
 
 ---
